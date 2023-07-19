@@ -2,19 +2,33 @@
 pwd - To get path of working directory
 
 ls - To list all files and directories of working directory
+
 mkdir _DirectoryName_ - To make directory of name _DirectoryName_
+
 rmdir _DirectoryName_ - To remove directory of name _DirectoryName_
+
 cd _DirectoryName_ - To open the directory of name _DirectoryName_
+
 cat _FIleName_ - To make file of name _FileName_
+
 rm _FIleName_ - To remove file of name _FileName_\
+
 rm -rf .git - To remove .git file (undo git init)
+
 echo -e "_Text_" >> _FileName_ - To add _Text_ to the end of the file of name _FileName_
+
 echo -e "_Text_" > _FileName_ - To clear and add (overwrite) _Text_ to the file of name _FileName_
+
 more _FileName_ - To display content of the file of name _FileName_
+
 more ./-file00 - To display content of the file of name -file00 (Example for file with name starting with -)
+
 more ./* - To display content of all files on the directory (Use * instead of name to run any command for all the files/directories)
+
 cp -r _ExistingFile/DirectoryName_ _CreatedFile/DirectoryName_ - To create a copy of _ExistingFile/DirectoryName_ as _CreatedFile/DirectoryName_ in the working directory
+
 file _FileName_ - To display file type
+
 find <Parameters> - To display files that satisfy certain conditions (like size, type, permissions, have certain text in them)
 
 # Git Commands
