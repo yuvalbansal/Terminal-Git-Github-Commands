@@ -1,5 +1,6 @@
 # Terminal Commands
 pwd - To get path of working directory
+
 ls - To list all files and directories of working directory
 mkdir _DirectoryName_ - To make directory of name _DirectoryName_
 rmdir _DirectoryName_ - To remove directory of name _DirectoryName_
